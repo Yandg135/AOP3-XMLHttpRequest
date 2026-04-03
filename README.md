@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com o objetivo de demonstrar o funcionamento do **
 
 A aplicação simula a comunicação com uma API de um e-commerce fictício, realizando requisições HTTP para obtenção de dados de produtos.
 
----
+
 
 ## 🎯 Objetivo
 
